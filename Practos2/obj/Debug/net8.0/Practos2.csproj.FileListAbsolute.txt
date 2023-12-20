@@ -1,0 +1,14 @@
+C:\Users\иии\source\repos\Practos2\Practos2\bin\Debug\net8.0\Practos2.exe
+C:\Users\иии\source\repos\Practos2\Practos2\bin\Debug\net8.0\Practos2.deps.json
+C:\Users\иии\source\repos\Practos2\Practos2\bin\Debug\net8.0\Practos2.runtimeconfig.json
+C:\Users\иии\source\repos\Practos2\Practos2\bin\Debug\net8.0\Practos2.dll
+C:\Users\иии\source\repos\Practos2\Practos2\bin\Debug\net8.0\Practos2.pdb
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\Practos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\Practos2.AssemblyInfoInputs.cache
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\Practos2.AssemblyInfo.cs
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\Practos2.csproj.CoreCompileInputs.cache
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\Practos2.dll
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\refint\Practos2.dll
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\Practos2.pdb
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\Practos2.genruntimeconfig.cache
+C:\Users\иии\source\repos\Practos2\Practos2\obj\Debug\net8.0\ref\Practos2.dll
